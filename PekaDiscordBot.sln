@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PekaDiscordBot", "PekaDiscordBot\PekaDiscordBot.csproj", "{027FA8C2-5CB1-426E-9D35-3B6DCE125916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FtpudDiscordUI", "..\DiscordBot1\FtpudDiscordUI\FtpudDiscordUI.csproj", "{7A36B321-C455-40EE-84E1-147572A86DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027FA8C2-5CB1-426E-9D35-3B6DCE125916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027FA8C2-5CB1-426E-9D35-3B6DCE125916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027FA8C2-5CB1-426E-9D35-3B6DCE125916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027FA8C2-5CB1-426E-9D35-3B6DCE125916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A36B321-C455-40EE-84E1-147572A86DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A36B321-C455-40EE-84E1-147572A86DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A36B321-C455-40EE-84E1-147572A86DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A36B321-C455-40EE-84E1-147572A86DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
